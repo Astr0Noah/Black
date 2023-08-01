@@ -7,7 +7,7 @@ export default function Navbar() {
     
     <ul>
         <li>
-            <Link to = "/Black/"class = "site-title">Home</Link>
+        <Link to="/" class="site-title">Home</Link>
         </li>
     
         <li>
