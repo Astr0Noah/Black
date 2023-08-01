@@ -18,7 +18,8 @@ function HeroSection() {
         <h1 className="test">Welcome to Black Clover Republic</h1>
       </animated.div>
 
-      <video src="/videos/Black.mp4" autoPlay loop muted />
+      <video src="/Black/videos/Black.mp4" autoPlay loop muted />
+
 
 
     </div>
