@@ -1,0 +1,10 @@
+from pyautogui import *
+import pyautogui
+import time
+
+num = 100
+while num > 0:
+    num+=1
+    time.sleep(2)
+
+print(num)
